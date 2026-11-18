@@ -1,0 +1,24 @@
+{
+  "name": "pdf-studio-pro",
+  "version": "2.5.0",
+  "description": "Bộ công cụ PDF Studio Pro & Image Studio thế hệ mới - 100% Client-side trên trình duyệt",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "serve": "npx serve -l 3000 .",
+    "open": "cmd /c start http://localhost:3000"
+  },
+  "keywords": [
+    "pdf-editor",
+    "pdf-converter",
+    "pdf-to-word",
+    "word-to-pdf",
+    "image-studio",
+    "pdf-lib",
+    "pdfjs",
+    "mammoth",
+    "docx"
+  ],
+  "author": "Full-stack Developer",
+  "license": "MIT"
+}
